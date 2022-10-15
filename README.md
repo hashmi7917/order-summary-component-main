@@ -28,12 +28,12 @@ Users should be able to:
 
 ### Screenshot
 
-![Screenshot 2022-10-15 at 11 04 04 AM](https://user-images.githubusercontent.com/38833326/195970759-eb137def-e216-4c2c-9ae7-4446b27cba14.png)
+![Screenshot 2022-10-15 at 12 14 43 PM](https://user-images.githubusercontent.com/38833326/195973333-636504c6-60ab-4645-8f89-5915bee32db7.png)
 
 <br/>
 
 MOBILE
-![Screenshot 2022-10-15 at 11 05 01 AM](https://user-images.githubusercontent.com/38833326/195970777-05d1f1a5-cd69-4363-bbc5-123e66750d23.png)
+![Screenshot 2022-10-15 at 12 15 14 PM](https://user-images.githubusercontent.com/38833326/195973347-98e39d2a-458d-4892-8cb8-eeca43a97fb7.png)
 
 ### Links
 

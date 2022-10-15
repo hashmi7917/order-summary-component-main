@@ -47,7 +47,7 @@ a {
   font-family: var(--RedHotDisplay);
 }
 
-/* Card Size 405 x 630 */
+/* Card Size 450 x 695 */
 
 .container {
   width: 100%;
@@ -59,9 +59,9 @@ a {
 }
 
 .main-content {
-  width: 90%;
-  max-width: 400px;
-  min-width: 350px;
+  width: 100%;
+  max-width: 430px;
+
   display: flex;
   flex-direction: column;
   background-color: #fff;
@@ -101,7 +101,7 @@ h4 {
 
 .order-info {
   width: 80%;
-  font-size: 1.3rem;
+  font-size: 1.5rem;
   color: var(--Desaturated-blue);
   letter-spacing: 1px;
   line-height: 1.6;
@@ -111,8 +111,8 @@ h4 {
 
 .subscription-info {
   background-color: var(--Very-pale-blue);
-  width: 100%;
-  max-width: 325px;
+  width: 90%;
+  max-width: 400px;
   border-radius: 15px;
   display: flex;
   align-items: center;
@@ -147,14 +147,14 @@ h4 {
 
 .plan-info p {
   font-weight: var(--weight-500);
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   color: var(--Desaturated-blue);
   letter-spacing: 0.5px;
   padding: 0.5rem;
 }
 
 .plan > a {
-  font-size: 1.2rem;
+  font-size: 1.4rem;
   color: var(--Bright-blue);
   font-weight: var(--weight-700);
   cursor: pointer;
@@ -171,20 +171,20 @@ h4 {
 
 .cta button {
   width: 100%;
-  max-width: 325px;
+  max-width: 400px;
   background-color: var(--Bright-blue);
   color: #fff;
-  padding: 1.2rem 4rem;
+  padding: 1.5rem 4rem;
   border-radius: 10px;
   border: none;
   font-weight: var(--weight-900);
-  font-size: 1.4rem;
+  font-size: 1.5rem;
   box-shadow: #2125f833 10px 15px 30px;
   cursor: pointer;
 }
 
 .cta p {
-  font-size: 1.3rem;
+  font-size: 1.4rem;
   font-weight: var(--weight-700);
   color: var(--Desaturated-blue);
   padding-top: 2.5rem;
@@ -192,16 +192,29 @@ h4 {
 }
 
 /* Media Quries */
-@media (max-width: 430px) {
-  .main-content {
-    max-width: 300px;
+@media (max-width: 500px) {
+  html {
+    font-size: 9px;
   }
-  .content-info {
+  .main-content {
+    width: 90%;
+    max-width: 375px;
+  }
+
+  .order-info {
+    width: 80%;
   }
   .subscription-info {
+    width: 90%;
     max-width: 300px;
+    padding: 10px;
+  }
+  .icon img {
+    width: 100%;
+    max-width: 48px;
   }
   .cta button {
-    max-width: 300px;
+    width: 100%;
+    /* max-width: 350px; */
   }
 }
