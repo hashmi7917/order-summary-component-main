@@ -99,7 +99,7 @@ CSS Custom Layouts, Flexbox and Grids.
 
 - Website - [Hashmi](https://hashmi7917.github.io/hashmiportfolio/)
 - Frontend Mentor - [@hashmi7917](https://www.frontendmentor.io/profile/hashmi7917)
-- Twitter - [@yourusername](https://twitter.com/@hash_m_ee)
+- Twitter - [@hash_m_ee](https://twitter.com/@hash_m_ee)
 
 ## Acknowledgments
 
